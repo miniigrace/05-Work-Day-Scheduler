@@ -19,10 +19,10 @@ The following are completed tasks for this project:
 
 * Shows the current day at the top of the calendar (day and date, see gif for format)
 * A series of timeblock elements exists on the page. 
-* Each timeblock has an hour associated with it. Take the current time into account and compare it to the hour of the timeblock. Give each timeblock a specific color depending on if it has already happened, is happening now, or will happen in the future.
+* Each timeblock has an hour associated with it. Taken the current time into account and compare it to the hour of the timeblock. Each timeblock has a specific color depending on if it has already happened, is happening now, or will happen in the future.
 * It has a textbox inside each timeblock, to allow entering events.
 * There is a button to the right of each timeblock. When this button is clicked, save the corresponding event to localstorage for that time slot.
-* When loading the page, all the stored data fetched for each timeslot from localstorage and put those values in the corresponding textboxes for the given timeblocks.
+* When loading the page, all the stored data were fetched for each timeslot from localstorage and put those values in the corresponding textboxes for the given timeblocks.
 
 ## Mock Up
 
