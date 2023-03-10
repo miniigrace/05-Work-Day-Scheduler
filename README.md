@@ -28,7 +28,6 @@ The following are completed tasks for this project:
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![planner-sc](https://user-images.githubusercontent.com/112984208/224219773-95402c8f-051c-4c1a-8157-9bf9fe88365e.png)
 
-
-
+## [Click here] (https://miniigrace.github.io/05-Work-Day-Scheduler/) for the deployed application
