@@ -30,4 +30,4 @@ The following animation demonstrates the application functionality:
 
 ![planner-sc](https://user-images.githubusercontent.com/112984208/224219773-95402c8f-051c-4c1a-8157-9bf9fe88365e.png)
 
-## [Click here] (https://miniigrace.github.io/05-Work-Day-Scheduler/) for the deployed application
+##  Follow the link to view the deployed application (https://miniigrace.github.io/05-Work-Day-Scheduler/) 
